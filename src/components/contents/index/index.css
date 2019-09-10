@@ -1,0 +1,35 @@
+a:hover{
+    color:rgba(0,0,0,0.65);
+}
+.content{
+    padding-top:50px;
+    padding-bottom: 50px;
+    background-color: #dddddd;
+    min-height: 350px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 63px;
+}
+p{
+    margin-top: -10px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+}
+.button{
+    margin-top: 45px;
+}
+.button span{
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 7px;
+    display: inline-block;
+    background: #40586d;
+    transition: all 0.5s;
+}
+.button span:hover{
+    background: #122b40;
+}

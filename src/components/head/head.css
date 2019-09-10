@@ -1,0 +1,32 @@
+a{
+    color:rgba(0,0,0,0.65);
+}
+.selectIcon:hover{
+    background: #e6e6e6;
+    transition: 1s all;
+}
+.selectIcon{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.title{
+    float: left;
+    font-size:14px;
+    line-height: 50px;
+    margin-left: 20px;
+}
+.logout,.user{
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+.logout:hover,.user:hover{
+    color:#74b9ff;
+}
