@@ -14,7 +14,6 @@ export default class Profile extends Component {
               <Col span={8}>
                 <label className="control-label">头像</label>
               </Col>
-
               <Col span={8}>
                 <label className="form-image">
                   <input id="avatar" type="file"/>
